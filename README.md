@@ -1,7 +1,3 @@
-<h1 align="center"> Remake of Ironplant.cl 🌱
-    <br>
-    <img src="https://user-images.githubusercontent.com/87249022/200217369-068dad68-8e32-4a4e-be20-75f6f47581c2.png" align="center"></img>
-</h1>
 
 ## Proyecto final para el curso React Js de Coderhouse
 
@@ -32,31 +28,6 @@ Se usó firestore para la base de datos de productos y las órdenes de compra de
 
 ___
 
-### Usage
-<h1 align="center">
-    <img src="https://user-images.githubusercontent.com/87249022/200223646-20f1effa-cbf6-4b32-81c8-1edc0d8b2980.gif" ></img>
-</h1>
-
-### Item detail
-<h1 align="center">
-    <img src="https://user-images.githubusercontent.com/87249022/200223666-c5a7ab0b-4e9d-4a33-a123-9beb99cbdb01.gif" ></img>
-</h1>
-
-### Order confimation
-<h1 align="center">
-    <img src="https://user-images.githubusercontent.com/87249022/200223678-0517da5f-a4b5-4c0b-ba9c-7dccca532c02.gif" ></img>
-</h1>
-
-### Drawer
-<h1 align="center">
-    <img src="https://user-images.githubusercontent.com/87249022/200223685-46f8c79f-f00e-4458-8c6a-d34429663688.gif" ></img>
-</h1>
-
-## Getting started
-🌱 Clone the repository:
-```
-git clone https://github.com/Caracolaracol/ReactJsFinal-coderhouse.git
-```
 
 🌱 Install npm packages:
 ```
@@ -72,7 +43,7 @@ npm start
 💡 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact 
-<a>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-rojas-c4r4c01/)</a>&nbsp;
+<a>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-jimenez-99761324a/)</a>&nbsp;
 
 ## Thank you
 Take Care! 💛
