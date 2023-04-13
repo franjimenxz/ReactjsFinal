@@ -1,7 +1,7 @@
 
-## Proyecto final para el curso React Js de Coderhouse
+## Proyecto final para el curso React Js de Coderhouse - Franco Jimenez
 
-Para este desafío realicé un remake de la página oficial de Ironplant, un sitio de tipo  e-commerce dedicado a la venta de suplementos de origen vegetal. 
+Para este desafío realicé un remake de la página oficial de VidaNatural, un sitio de tipo  e-commerce dedicado a la venta de suplementos de origen vegetal. 
 
 ## Caracteristicas
 - Montado con ReactJS
